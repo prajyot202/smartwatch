@@ -128,7 +128,7 @@ header #menu {
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
-    background: url(../images/home_img.jpg) no-repeat;
+    background: url(./images/home_img.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
