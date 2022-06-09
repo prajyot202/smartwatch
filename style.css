@@ -196,7 +196,7 @@ header #menu {
 .core .row .box-container .box {
     margin: 2rem;
     padding: 2rem;
-    width: 27rem;
+    width: 30rem;
     box-shadow:  0 0 1rem rgba(0,0,0,.5);
     background: #444;
     border-radius: .5rem;
@@ -603,6 +603,14 @@ header #menu {
     .heading {
         width: auto;
     }
+     
+     .core .row .box-container .box p {
+         font-size : 1.6rem;
+     }
+     
+     .features .box-container .box p {
+         font-size : 1.4rem;
+     }
 
     .product .box-container .box {
         flex-flow: column;
